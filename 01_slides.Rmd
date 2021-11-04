@@ -2,10 +2,10 @@
 title: "Transparency in the Evidence-Based-Policy Pipeline: Challenges and Solutions"
 author: "Fernando Hoces de la Guardia, BITSS"
 subtitle: "Data H195A, UC Berkeley"
-date:  "November 2021 | [slides](https://bitss.github.io/acre-slides-puc/)"
+date:  "November 2021 | [slides](https://bitss.github.io/Berkeley-DATAH195A-slides/)"
 output: 
   xaringan::moon_reader:
-    footer: "These slides available at https://bitss.github.io/acre-slides-puc/"
+    footer: "These slides available at https://bitss.github.io/Berkeley-DATAH195A-slides/"
     css: [default, metropolis, metropolis-fonts] 
     lib_dir: libs
     nature:
